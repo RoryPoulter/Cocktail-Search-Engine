@@ -1,0 +1,24 @@
+div.drink {
+    border: rgb(128, 128, 128) solid 1px;
+    border-radius: 10px;
+    background-color: rgb(229, 229, 229);
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 300px;
+}
+
+div.drink h4 {
+    text-align: center;
+}
+
+div.drink img {
+    width: 200px;
+    margin-left: 50px;
+    border: rgb(128, 128, 128) solid 1px;
+    border-radius: 5px;
+}
+
+div.drink p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
