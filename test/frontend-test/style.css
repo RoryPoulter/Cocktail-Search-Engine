@@ -1,0 +1,58 @@
+div.drink {
+    border: bisque solid 1px;
+    border-radius: 10px;
+    background-color: beige;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 300px;
+}
+
+div.drink h4, div.info h2 {
+    text-align: center;
+}
+
+div.drink img {
+    width: 200px;
+    margin-left: 50px;
+    border: bisque solid 1px;
+    border-radius: 5px;
+}
+
+div.drink p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div.info {
+    position: fixed;
+    left: 100px;
+    top: 100px;
+    width: 500px;
+    background-color: bisque;
+    border: rgb(243, 205, 159) solid 1px;
+    border-radius: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button.close-button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    border-top-right-radius: 9px;
+    border: none;
+    width: 30px;
+    height: 30px;
+    background-color: bisque;
+}
+
+div.info img {
+    width: 250px;
+    margin-left: 25px;
+    border: rgb(243, 205, 159) solid 1px;
+    border-radius: 5px;
+}
+
+div.info p, div.info h5.instructions {
+    margin-left: 20px;
+    margin-right: 20px;
+}
