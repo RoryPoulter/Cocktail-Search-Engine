@@ -1,7 +1,7 @@
 div.drink {
-    border: rgb(128, 128, 128) solid 1px;
+    border: bisque solid 1px;
     border-radius: 10px;
-    background-color: rgb(229, 229, 229);
+    background-color: beige;
     color: rgb(0, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     width: 300px;
@@ -14,7 +14,7 @@ div.drink h4 {
 div.drink img {
     width: 200px;
     margin-left: 50px;
-    border: rgb(128, 128, 128) solid 1px;
+    border: bisque solid 1px;
     border-radius: 5px;
 }
 
